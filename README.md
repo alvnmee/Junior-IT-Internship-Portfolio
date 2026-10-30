@@ -1,4 +1,4 @@
-# Junior IT Internship 
+# Junior IT Internship Portfolio
 
 Dokumentasi pengalaman Praktik Kerja Lapangan (PKL) selama 5 bulan di PT LintasMaya MultiMedia dengan fokus pada bidang IT Support, Network Installation, Wireless Infrastructure, dan Fiber Optic Networking.
 
@@ -74,6 +74,13 @@ Repository ini berisi dokumentasi pengalaman praktik, kegiatan teknis, penggunaa
 - IT Technical Support
 - Field Installation Support
 
+## Internship Documentation
+
+Laporan lengkap kegiatan Praktik Kerja Lapangan dan dokumentasi teknis tersedia dalam repository ini.
+
+[View Internship Report (PDF)](./Internship-Documentation/Internsip%20Report%20AlvinKurniawan.pdf)
+
+
 ## Key Learning Outcomes
 
 Melalui kegiatan magang ini, saya memperoleh pengalaman dan pemahaman praktis mengenai:
@@ -84,3 +91,7 @@ Melalui kegiatan magang ini, saya memperoleh pengalaman dan pemahaman praktis me
 - Proses penyambungan dan pengujian fiber optic.
 - Penggunaan berbagai tools dalam pekerjaan teknis jaringan.
 - Kerja sama tim dan pelaksanaan pekerjaan teknis di lapangan.
+
+## Disclaimer
+
+Repository ini dibuat untuk keperluan edukasi dan portofolio profesional. Informasi pribadi serta informasi internal perusahaan yang bersifat rahasia tidak disertakan dalam dokumentasi publik.
