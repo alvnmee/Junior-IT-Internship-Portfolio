@@ -1,4 +1,4 @@
-# Junior IT Internship Portfolio
+# Junior IT Internship 
 
 Dokumentasi pengalaman Praktik Kerja Lapangan (PKL) selama 5 bulan di PT LintasMaya MultiMedia dengan fokus pada bidang IT Support, Network Installation, Wireless Infrastructure, dan Fiber Optic Networking.
 
