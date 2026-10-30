@@ -11,8 +11,8 @@ Repository ini berisi dokumentasi pengalaman praktik, kegiatan teknis, penggunaa
 | Perusahaan | PT LintasMaya MultiMedia |
 | Posisi | IT Support Intern / Network Technician Intern |
 | Durasi | 5 Bulan |
-| Periode | November – Maret |
-| Lokasi | Samarinda, Indonesia |
+| Periode | November 2023 – Maret 2024 |
+| Lokasi | Kalimantan Timur, Samarinda, Indonesia |
 | Industri | IT Services |
 
 ## Technical Responsibilities
