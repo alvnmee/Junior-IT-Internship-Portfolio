@@ -1,7 +1,3 @@
-# Certifications
-
-This folder contains professional certifications.
-
 ## BNSP – Junior Technical Support
 
 - Certification: Teknisi Jaringan Junior
