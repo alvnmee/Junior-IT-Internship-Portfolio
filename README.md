@@ -92,6 +92,4 @@ Melalui kegiatan magang ini, saya memperoleh pengalaman dan pemahaman praktis me
 - Penggunaan berbagai tools dalam pekerjaan teknis jaringan.
 - Kerja sama tim dan pelaksanaan pekerjaan teknis di lapangan.
 
-## Disclaimer
 
-Repository ini dibuat untuk keperluan edukasi dan portofolio profesional. Informasi pribadi serta informasi internal perusahaan yang bersifat rahasia tidak disertakan dalam dokumentasi publik.
